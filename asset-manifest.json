@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.034cc66a.css",
-    "main.js": "/portfolio/static/js/main.40ffcf63.js",
+    "main.js": "/portfolio/static/js/main.f287b96c.js",
     "static/media/color-sharp.png": "/portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/banner-bg.png": "/portfolio/static/media/banner-bg.cc1273af450504afe755.png",
@@ -12,6 +12,7 @@
     "static/media/CentraNo2-Book.ttf": "/portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "static/media/footer-bg.png": "/portfolio/static/media/footer-bg.7bd67c0f73571d0acc02.png",
     "static/media/jwt.jpg": "/portfolio/static/media/jwt.5322b2cc470798c4285a.jpg",
+    "static/media/resume.pdf": "/portfolio/static/media/resume.1f29d29c98276e6d4d3f.pdf",
     "static/media/mern.jpg": "/portfolio/static/media/mern.77ddc49aeb933007d926.jpg",
     "static/media/rq.jpg": "/portfolio/static/media/rq.bb84a31841f7ce23af7a.jpg",
     "static/media/revicons.eot": "/portfolio/static/media/revicons.a77de540a38981833f9e.eot",
@@ -24,10 +25,10 @@
     "static/media/github.svg": "/portfolio/static/media/github.f8b98328d03b18c332bb36a3fede2c45.svg",
     "index.html": "/portfolio/index.html",
     "main.034cc66a.css.map": "/portfolio/static/css/main.034cc66a.css.map",
-    "main.40ffcf63.js.map": "/portfolio/static/js/main.40ffcf63.js.map"
+    "main.f287b96c.js.map": "/portfolio/static/js/main.f287b96c.js.map"
   },
   "entrypoints": [
     "static/css/main.034cc66a.css",
-    "static/js/main.40ffcf63.js"
+    "static/js/main.f287b96c.js"
   ]
 }
